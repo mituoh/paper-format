@@ -50,8 +50,4 @@ textarea {
 a {
   color: #42b983;
 }
-
-.arrow {
-  
-}
 </style>

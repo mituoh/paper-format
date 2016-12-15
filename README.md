@@ -2,6 +2,8 @@
 
 > Delete line break included when copying paper
 
+[https://mituoh.github.io/paper-format/](https://mituoh.github.io/paper-format/)
+
 ## Build Setup
 
 ``` bash
